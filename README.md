@@ -6,4 +6,6 @@
 
 ### In subs, there are subscriptions to the app state (context)
 
-## In views, there are functional descriptions of JavaFX components.
+### In views, there are functional descriptions of JavaFX components.
+
+#### I want to contribute a bit more to this library in the near future.
