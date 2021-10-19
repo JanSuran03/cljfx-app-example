@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: cljfx:1.7.16">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cljfx/cljfx/1.7.16/cljfx-1.7.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
