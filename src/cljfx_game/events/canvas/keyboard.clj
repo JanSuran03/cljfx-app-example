@@ -48,6 +48,7 @@
     (db-update/canvas context assoc :objects [])
     (db-update/canvas context update :objects maybe-pop)))
 
+;; Well, this method should not be there, but I really did not want to make a separate file for it.
 (defmethod handle-key-pressed "Esc"
   [context _ _]
   (db-update/stage context assoc :showing false))
